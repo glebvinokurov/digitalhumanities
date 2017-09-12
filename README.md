@@ -6,7 +6,7 @@ I am a PhD candidate in German Studies at McGill's Languages, Literatures, and C
 
 ## My Research Project
 
-For my dissertation I am planning to investigate connections and influences between contemporary German literature and East European literatures, such as in the works of Romanian-born German poet (and member of Oulipo) Oskar Pastior, Romanian-born Nobel laureate Herta Müller, Swiss Slavist/poet/novelist Felix-Philipp Ingold, or Ingeborg Bachmann Prize winner Olga Martynova who writes prose in German and poetry in Russian. 
+For my dissertation I am planning to investigate connections and influences between contemporary German literature and East European literatures, for example in the works of Romanian-born German poet (and member of Oulipo) Oskar Pastior, Romanian-born Nobel laureate Herta Müller, Swiss Slavist/poet/novelist Felix-Philipp Ingold, or Ingeborg Bachmann Prize winner Olga Martynova who writes prose in German and poetry in Russian. 
 
 ![Image of Oskar Pastior and Herta Müller](https://perigeion.files.wordpress.com/2015/03/oskarpastiorhertamuller.jpg)
 
