@@ -20,7 +20,7 @@ Currently, I am also working on an article on the Chuvash poet Gennadiy Aygi and
 
 ## My Objectives
 
-* to have a better understanding of the what digital humanities is and can do
+* to have a better understanding of what digital humanities is/are and can do
 * to learn which tools are available that may be useful for my own research 
 * to learn about the visualization of literature-related data
 * to plan and shoot a demonstration video
