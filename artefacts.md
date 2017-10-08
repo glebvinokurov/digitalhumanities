@@ -1,54 +1,10 @@
----
-title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments
-chapter: KEYWORD
-URL: keywords/KEYWORD.md
-author: 
-- family: FAMILY NAME
-  given: GIVEN NAME
-editor: 
-- family: FAMILY NAME
-  given: GIVEN NAME
-publisher: Modern Language Association
-type: book
----
+# Digital Humanities Artefacts
 
-# Skeleton Keyword Entry Template 
+## Artifact Title 
 
-**Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
+![screenshot](http://tapor.ca/images/tools/0/443-thumb.png)
 
-# KEYWORD NAME
-
-## AUTHOR(S)
-Institutional Affiliation (if any) | Website
-
----
-
-##### Publication Status:
-* unreviewed draft
-* draft version undergoing editorial review
-* draft version undergoing peer-to-peer review
-* published 
-
----
-
-### Cross-Reference Keywords: add suggestions for other keywords that may be related to your keyword. See list of keywords https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md
-
----  
-
-## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
-
-## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
-
-**Note: no more than 2 artifacts authored by curator**
-
-For Each Artifact:
-
-#### Artifact Title 
-
-Screenshot: ![screenshot](images/archive-composing digital media.jpg)
-
-* Artifact Type: (use this vocabulary: syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, grading rubric, student work -- add other types?)
+* Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
 * Permissions: 
 * Creator and Affiliation:
@@ -56,12 +12,26 @@ Screenshot: ![screenshot](images/archive-composing digital media.jpg)
 
 An annotation of **no more than 150 words**
 
-## RELATED MATERIALS
+## Artifact Title 
 
-Five related items that are informative for teaching with your keyword in mind.
+![screenshot](images/archive-composing digital media.jpg)
 
-For each item, include Author, Title, and URL, in alphabetical order.
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: 
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
 
-## WORKS CITED
+An annotation of **no more than 150 words**
 
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.  
+## Artifact Title 
+
+![screenshot](images/archive-composing digital media.jpg)
+
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: 
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
+
+An annotation of **no more than 150 words**
