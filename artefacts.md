@@ -2,7 +2,7 @@
 
 ## Artifact Title 
 
-![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_topic_4.jpg)
+![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_screenshot_of_screenshots.JPG)
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
