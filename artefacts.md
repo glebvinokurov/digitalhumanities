@@ -2,7 +2,7 @@
 
 ## Artifact Title 
 
-![screenshot](http://tapor.ca/images/tools/0/443-thumb.png)
+![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_topic_4.jpg)
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
