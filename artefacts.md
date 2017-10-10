@@ -5,9 +5,9 @@
 # Curatorial Statement
 
 Franco Moretti's *Graphs, Maps, Trees* (2007) helped popularize the possibilities of visualizing literary data. 
-Perusing the collection of abstracts for the recent *Digital Humanities 2017* conference in Montréal, Canada, and the TAPoR 3 research tool collection, this selection aims to highlight several artefacts that can be used to visualize complex information within and across (literary) texts, for example in the study of influences between literatures, and network dynamics. The first two artefacts focus on German literature, the third artefact is a universal tool.  
+Perusing the collection of abstracts for the recent *Digital Humanities 2017* conference in Montréal, Canada, and the TAPoR 3 research tool collection, this selection aims to highlight several artefacts that can be used to visualize complex information within and across (literary) texts, for example in the study of influences between literatures, and network dynamics. The first two artefacts focus mainly on German literature, the third artefact is a universal tool.  
 
-# Curates Artifacts
+# Curated Artifacts
 
 ## Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf (1890)
 
