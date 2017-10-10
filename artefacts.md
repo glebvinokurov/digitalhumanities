@@ -31,7 +31,7 @@ Hecht et al. (2017) describe their digital edition project of Cäsar Flaischlen'
 * Creator and Affiliation: Frank Fischer (National Research University Higher School of Economics, Moscow, Russia), Mathias Göbel (Göttingen State and University Library, Germany), Dario Kampkaspar (Herzog August Library, Germany), Christopher Kittel (University of Graz, Austria), Peer Trilcke (University of Potsdam, Germany)
 * Tags: Plot analysis, network analysis, dynamic networks, digital literary studies
 
-An annotation of **no more than 150 words**
+Fischer et al. (2017) illuminate in their open access online article how to integrate plot analysis into network dynamics and introduce two different quantitative approaches, event-based measures (see illustration above) and progression-based measures. Results from recent applications of these approaches to German and Russian drama can be explored on Fischer et al.'s (2015ff.) blog *dlina	– Digitally-Driven Literary Network Analysis (of	 Dramatic	 Texts)*.	    
 
 ## Paper Machines 
 
@@ -50,6 +50,8 @@ Paper Machines is a data visualization tool that works as a plugin for the open-
 ## Works Cited 
 
 Derrida, Jacques. *Papier-machine: Le ruban de machine à écrire et autres réponses.* Paris: Galilée, 2001.
+
+Fischer,	Frank,	Mathias Göbel,	Dario Kampkaspar,	Christopher Kittel, and Peer Trilcke. *dlina	– Digitally-Driven Literary Network Analysis	 (of	 Dramatic	 Texts).* Blog, 2015ff. https://dlina.github.io/	Accessed October 9, 2017.
 
 Fischer, Frank, Mathias Göbel, Dario Kampkaspar, Christopher Kittel, and Peer Trilcke. "Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts." *Digital Humanities 2017. Conference Abstracts.* Montréal, Canada, August 8 – 11, 2017. https://dh2017.adho.org/abstracts/071/071.pdf Accessed October 9, 2017.
 
