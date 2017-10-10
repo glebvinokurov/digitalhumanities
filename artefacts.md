@@ -1,5 +1,29 @@
 # Digital Humanities Artefacts
 
+## Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf (1890)
+
+![screenshot](images/archive-composing digital media.jpg)
+
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: http://litteratur-tafel.weltliteratur.net/
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
+
+An annotation of **no more than 150 words**
+
+## Artifact Title 
+
+![screenshot](images/archive-composing digital media.jpg)
+
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: 
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
+
+An annotation of **no more than 150 words**
+
 ## Paper Machines 
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_screenshot_of_screenshots.JPG)
@@ -9,30 +33,6 @@
 * Permissions: Open-source
 * Creator and Affiliation: Jo Guldi and Chris Johnson-Roberson, metaLAB (at) Harvard
 * Tags: Visualization Tool, Texts, Zotero 
-
-An annotation of **no more than 150 words**
-
-## Artifact Title 
-
-![screenshot](images/archive-composing digital media.jpg)
-
-* Artifact Type: (article, syllabus, tool, etc.)
-* Source URL: 
-* Permissions: 
-* Creator and Affiliation:
-* Tags: (getting started/advanced; tool used)
-
-An annotation of **no more than 150 words**
-
-## Artifact Title 
-
-![screenshot](images/archive-composing digital media.jpg)
-
-* Artifact Type: (article, syllabus, tool, etc.)
-* Source URL: 
-* Permissions: 
-* Creator and Affiliation:
-* Tags: (getting started/advanced; tool used)
 
 An annotation of **no more than 150 words**
 
