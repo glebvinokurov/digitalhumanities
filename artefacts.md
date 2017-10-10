@@ -5,12 +5,12 @@
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/Graphische_Litteratur-Tafel.JPG)
 
 * Artifact Type: Digital edition & article
-* Source URL: http://litteratur-tafel.weltliteratur.net/
+* Source URL: http://litteratur-tafel.weltliteratur.net/ (digital edition) & https://dh2017.adho.org/abstracts/506/506.pdf (article)
 * Permissions: Free open-source
 * Creator and Affiliation: Angelika Hechtl, WU Wien, Austria; Ingo Börner, Universität Wien, Austria; Frank Fischer, Higher School of Economics Moscow, Russia; Peer Trilcke, Universität Potsdam, Germany
-* Tags: Digital Edition, Visualisation, Index, Literature
+* Tags: Digital edition, literary map, TEI, data visualization, German literary history
 
-An annotation of **no more than 150 words**
+Digital	edition of Cäsar Flaischlen's	(1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex invormation contained in Flaischlen's multicolor diagram digitally available as a navigable website with high resolution scans and an index and also as a machine-readable text encoded in XML according to the TEI guidelines. 
 
 ## Artifact Title 
 
@@ -44,7 +44,7 @@ Derrida, Jacques. *Papier-machine: Le ruban de machine à écrire et autres ré
 
 Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. *Cäsar Flaischlen's 'Graphische Litteratur-Tafel'. A Digital Edition. (Version: Alpha, October 2016).* http://litteratur-tafel.weltliteratur.net Accessed October 9, 2017.
 
-Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. "Cäsar Flaischlen's 'Graphische Litteratur-Tafel' - Digitizing A Giant Historical Flowchart Of Foreign Influences On German Literature." *Digital Humanities 2017. Conference Abstracts.* Prepared by Rhian Lewis et al. Montréal, 2017: 468-469. https://dh2017.adho.org/program/abstracts/ Accessed October 9, 2017.
+Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. "Cäsar Flaischlen's 'Graphische Litteratur-Tafel' - Digitizing A Giant Historical Flowchart Of Foreign Influences On German Literature." *Digital Humanities 2017. Conference Abstracts.* Prepared by Rhian Lewis et al. Montréal, 2017: 468-469. https://dh2017.adho.org/program/abstracts/ Separate publication: https://dh2017.adho.org/abstracts/506/506.pdf Accessed October 9, 2017.
 
 Paper Machines. http://papermachines.org Accessed October 9, 2017.
 
