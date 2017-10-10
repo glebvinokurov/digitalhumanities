@@ -2,7 +2,7 @@
 
 # *Literary data visualization*
 
-## Curatorial Statement
+# Curatorial Statement
 
 Franco Moretti's *Graphs, Maps, Trees* (2007) helped popularize the possibilities of visualizing literary data. Perusing the collection of abstracts for the recent *Digital Humanities 2017* conference in Montréal, Canada, and the TAPoR 3 research tool collection one can propose the following artefacts can be used to visualize complex information within and across texts.   
 
