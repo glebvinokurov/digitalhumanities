@@ -35,3 +35,11 @@ An annotation of **no more than 150 words**
 * Tags: (getting started/advanced; tool used)
 
 An annotation of **no more than 150 words**
+
+## Works Cited 
+
+Derrida, Jacques. *Papier-machine: Le ruban de machine à écrire et autres réponses.* Paris: Galilée, 2001.
+Paper Machines. http://papermachines.org Accessed October 9, 2017.
+TAPoR 3. http://tapor.ca Accessed October 9, 2017.
+Zotero. https://www.zotero.org/ Accessed October 9, 2017.
+
