@@ -28,14 +28,14 @@ An annotation of **no more than 150 words**
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/paper_machines_banner.JPG)
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/paper_machines_screenshot.JPG)
-\\
+
 * Artifact Type: Tool
 * Source URL: http://papermachines.org
 * Permissions: Open-source
 * Creator and Affiliation: Jo Guldi and Chris Johnson-Roberson, metaLAB (at) Harvard
 * Tags: Visualization Tool, Texts, Zotero 
 
-An annotation of **no more than 150 words**
+"Paper Machines is a plugin for the Zotero bibliographic management software that makes cutting-edge topic-modeling analysis in Computer Science accessible to humanities researchers without requiring extensive computational resources or technical knowledge. It synthesizes several approaches to visualization within a highly accessible user interface." (http://papermachines.org) Tool discovered with TAPoR 3. The tool's name cleverly alludes to Derrida's *Papier-machine* (2001).
 
 ## Works Cited 
 
