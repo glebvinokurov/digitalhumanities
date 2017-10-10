@@ -27,6 +27,7 @@ An annotation of **no more than 150 words**
 ## Paper Machines 
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_banner.JPG)
+![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_screenshot.JPG)
 \\
 * Artifact Type: Tool
 * Source URL: http://papermachines.org
