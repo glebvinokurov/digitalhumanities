@@ -14,8 +14,7 @@ In their open access online article Hecht et al. (2017) describe their digital e
 
 ## Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts
 
-![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/dlina_banner.JPG)
-![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/dlina_gogol_teatralnyi_razezd_gephi.png)
+![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/fischer_figure_1.JPG)
 
 * Artifact Type: Open access online article
 * Source URL: https://dh2017.adho.org/abstracts/071/071.pdf
