@@ -34,9 +34,9 @@ Screenshot:
 * Source URL: http://papermachines.org
 * Permissions: Free open-source
 * Creator and Affiliation: Jo Guldi and Chris Johnson-Roberson, metaLAB (at) Harvard
-* Tags: Visualization Tool, Texts, Zotero 
+* Tags: Data visualization, literary maps, text mining, plugin, Zotero 
 
-"Paper Machines is a topic modelling and visualization tool available as a plugin for Zotero. It analyzes Zotero bibliographic collections based on a selection of text mining processes, and enables users to export a variety of visualizations, such as word clouds, phrase nets or heat maps, from the results." (http://tapor.ca/tools/448) Tool discovered with TAPoR 3. The tool's name cleverly alludes to Derrida's *Papier-machine* (2001).
+Paper Machines is a data visualization tool that works as a plugin for the open-source bibliographic tool Zotero. Paper Machines can analyze bibliographic collections created with Zotero, apply various text mining processes, and export a wide range of visualizations, including word clouds, heat maps, or phrase nets. Tool discovered with TAPoR 3. The tool's name cleverly alludes to Derrida's *Papier-machine* (2001).  
 
 ## Works Cited 
 
