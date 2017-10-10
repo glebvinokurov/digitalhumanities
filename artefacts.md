@@ -4,11 +4,11 @@
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/Graphische_Litteratur-Tafel.JPG)
 
-* Artifact Type: (article, syllabus, tool, etc.)
+* Artifact Type: Digital edition & article
 * Source URL: http://litteratur-tafel.weltliteratur.net/
-* Permissions: 
-* Creator and Affiliation:
-* Tags: (getting started/advanced; tool used)
+* Permissions: Free open-source
+* Creator and Affiliation: Angelika Hechtl, WU Wien, Austria; Ingo Börner, Universität Wien, Austria; Frank Fischer, Higher School of Economics Moscow, Russia; Peer Trilcke, Universität Potsdam, Germany
+* Tags: Digital Edition, Visualisation, Index, Literature
 
 An annotation of **no more than 150 words**
 
@@ -41,6 +41,10 @@ Screenshot:
 ## Works Cited 
 
 Derrida, Jacques. *Papier-machine: Le ruban de machine à écrire et autres réponses.* Paris: Galilée, 2001.
+
+Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. *Cäsar Flaischlen's 'Graphische Litteratur-Tafel'. A Digital Edition. (Version: Alpha, October 2016).* http://litteratur-tafel.weltliteratur.net Accessed October 9, 2017.
+
+Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. "Cäsar Flaischlen's 'Graphische Litteratur-Tafel' - Digitizing A Giant Historical Flowchart Of Foreign Influences On German Literature." *Digital Humanities 2017. Conference Abstracts.* Prepared by Rhian Lewis et al. Montréal, 2017: 468-469. https://dh2017.adho.org/program/abstracts/ Accessed October 9, 2017.
 
 Paper Machines. http://papermachines.org Accessed October 9, 2017.
 
