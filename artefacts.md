@@ -1,10 +1,11 @@
 # Digital Humanities Artefacts
 
-# *Literary data visualization*
+# *Visualization of Literary Networks and Data*
 
 # Curatorial Statement
 
-Franco Moretti's *Graphs, Maps, Trees* (2007) helped popularize the possibilities of visualizing literary data. Perusing the collection of abstracts for the recent *Digital Humanities 2017* conference in Montréal, Canada, and the TAPoR 3 research tool collection one can propose the following artefacts can be used to visualize complex information within and across texts.   
+Franco Moretti's *Graphs, Maps, Trees* (2007) helped popularize the possibilities of visualizing literary data. 
+Perusing the collection of abstracts for the recent *Digital Humanities 2017* conference in Montréal, Canada, and the TAPoR 3 research tool collection, this selection aims to highlight several artefacts that can be used to visualize complex information within and across (literary) texts, for example in the study of influences between literatures, and network dynamics. The first two artefacts focus on German literature, the third artefact is a universal tool.  
 
 # Curates Artifacts
 
@@ -12,13 +13,13 @@ Franco Moretti's *Graphs, Maps, Trees* (2007) helped popularize the possibilitie
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/Graphische_Litteratur-Tafel.JPG)
 
-* Artifact Type: Digital edition & open access online article
-* Source URL: http://litteratur-tafel.weltliteratur.net/ (digital edition) & https://dh2017.adho.org/abstracts/506/506.pdf (open access online article)
+* Artifact Type: Digital edition
+* Source URL: http://litteratur-tafel.weltliteratur.net/ (digital edition)
 * Permissions: Free open-source
 * Creator and Affiliation: Angelika Hechtl (WU Wien, Austria), Ingo Börner (Universität Wien, Austria), Frank Fischer (National Research University Higher School of Economics, Moscow, Russia), Peer Trilcke (Universität Potsdam, Germany)
 * Tags: Digital edition, literary map, TEI, data visualization, German literary history
 
-In their open access online article Hecht et al. (2017) describe their digital edition project of Cäsar Flaischlen's (1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex information contained in Flaischlen's multicolor diagram (including names of authors, titles of texts, literary groups, etc.) digitally accessible as a navigable website with high resolution scans and an index and as a machine-readable text encoded in XML according to the TEI guidelines. This digital edition could serve as a template for other literary maps and data vizualization projects and it gives insights into how to present complex data, such as, in this case, information on the influences of foreign writers on German literature. The article (Hechtl et al. 2017) situates this project within contemporary data visualization approaches, such as Franco Moretti's "graphs, maps, and trees" (Moretti 2007).  
+Hecht et al. (2017) describe their digital edition project of Cäsar Flaischlen's (1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex information contained in Flaischlen's multicolor diagram (including names of authors, titles of texts, literary groups, etc.) digitally accessible as a navigable website with high resolution scans and an index and as a machine-readable text encoded in XML according to the TEI guidelines. This digital edition could serve as a template for other literary maps and data vizualization projects and it gives insights into how to present complex data, such as, in this case, information on the influences of foreign writers on German literature. The article (Hechtl et al. 2017) situates this project within contemporary data visualization approaches, such as Franco Moretti's "graphs, maps, and trees" (Moretti 2007).  
 
 ## Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts
 
@@ -50,11 +51,11 @@ Paper Machines is a data visualization tool that works as a plugin for the open-
 
 Derrida, Jacques. *Papier-machine: Le ruban de machine à écrire et autres réponses.* Paris: Galilée, 2001.
 
-Fischer, Frank, Mathias Göbel, Dario Kampkaspar, Christopher Kittel, and Peer Trilcke. "Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts." *Digital Humanities 2017. Conference Abstracts.* Prepared by Rhian Lewis et al. Montréal, 2017: 437-441. https://dh2017.adho.org/program/abstracts/ Separate publication: https://dh2017.adho.org/abstracts/071/071.pdf Accessed October 9, 2017.
+Fischer, Frank, Mathias Göbel, Dario Kampkaspar, Christopher Kittel, and Peer Trilcke. "Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts." *Digital Humanities 2017. Conference Abstracts.* Montréal, Canada, August 8 – 11, 2017. https://dh2017.adho.org/abstracts/071/071.pdf Accessed October 9, 2017.
 
 Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. *Cäsar Flaischlen's 'Graphische Litteratur-Tafel'. A Digital Edition. (Version: Alpha, October 2016).* http://litteratur-tafel.weltliteratur.net Accessed October 9, 2017.
 
-Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. "Cäsar Flaischlen's 'Graphische Litteratur-Tafel' - Digitizing A Giant Historical Flowchart Of Foreign Influences On German Literature." *Digital Humanities 2017. Conference Abstracts.* Prepared by Rhian Lewis et al. Montréal, 2017: 468-469. https://dh2017.adho.org/program/abstracts/ Separate publication: https://dh2017.adho.org/abstracts/506/506.pdf Accessed October 9, 2017.
+Hechtl, Angelika, Ingo Börner, Frank Fischer, and Peer Trilcke. "Cäsar Flaischlen's 'Graphische Litteratur-Tafel' - Digitizing A Giant Historical Flowchart Of Foreign Influences On German Literature." *Digital Humanities 2017. Conference Abstracts.* Montréal, Canada, August 8 – 11, 2017. https://dh2017.adho.org/abstracts/506/506.pdf Accessed October 9, 2017.
 
 Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History.* London and New York: Verso, 2007.
 
