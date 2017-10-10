@@ -10,7 +10,7 @@
 * Creator and Affiliation: Angelika Hechtl, WU Wien, Austria; Ingo Börner, Universität Wien, Austria; Frank Fischer, Higher School of Economics Moscow, Russia; Peer Trilcke, Universität Potsdam, Germany
 * Tags: Digital edition, literary map, TEI, data visualization, German literary history
 
-Digital	edition of Cäsar Flaischlen's	(1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex invormation contained in Flaischlen's multicolor diagram digitally available as a navigable website with high resolution scans and an index and also as a machine-readable text encoded in XML according to the TEI guidelines. 
+Digital	edition of Cäsar Flaischlen's	(1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex information contained in Flaischlen's multicolor diagram digitally available as a navigable website with high resolution scans and an index and also as a machine-readable text encoded in XML according to the TEI guidelines. 
 
 ## Artifact Title 
 
