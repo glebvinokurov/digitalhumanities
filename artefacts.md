@@ -4,24 +4,24 @@
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/Graphische_Litteratur-Tafel.JPG)
 
-* Artifact Type: Digital edition & article
-* Source URL: http://litteratur-tafel.weltliteratur.net/ (digital edition) & https://dh2017.adho.org/abstracts/506/506.pdf (article)
+* Artifact Type: Digital edition & open access online article
+* Source URL: http://litteratur-tafel.weltliteratur.net/ (digital edition) & https://dh2017.adho.org/abstracts/506/506.pdf (open access online article)
 * Permissions: Free open-source
 * Creator and Affiliation: Angelika Hechtl, WU Wien, Austria; Ingo Börner, Universität Wien, Austria; Frank Fischer, Higher School of Economics Moscow, Russia; Peer Trilcke, Universität Potsdam, Germany
-* Tags: Getting started, digital edition, literary map, TEI, data visualization, German literary history
+* Tags: Digital edition, literary map, TEI, data visualization, German literary history
 
-Digital	edition of Cäsar Flaischlen's	(1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex information contained in Flaischlen's multicolor diagram (including "names of authors, texts, literary groups and schools"; Hechtl et al. 2017) digitally available as a navigable website with high resolution scans and an index and also as a machine-readable text encoded in XML according to the TEI guidelines. This digital edition could serve as a template for other literary maps and data vizualization projects and it gives insights in how to present complex data, such as, in this case, information on the influences of foreign writers on German literature. The article (Hechtl et al. 2017) situates this project within contemporary data visualization approaches, such as Franco Moretti's "graphs, maps, and trees" (Moretti 2007).  
+In their open access online article Hecht et al. (2017) describe their digital edition project of Cäsar Flaischlen's (1864–1920) "Graphische Litteratur-Tafel" (1890) that makes the complex information contained in Flaischlen's multicolor diagram (including names of authors, titles of texts, literary groups, etc.) digitally accessible as a navigable website with high resolution scans and an index and as a machine-readable text encoded in XML according to the TEI guidelines. This digital edition could serve as a template for other literary maps and data vizualization projects and it gives insights into how to present complex data, such as, in this case, information on the influences of foreign writers on German literature. The article (Hechtl et al. 2017) situates this project within contemporary data visualization approaches, such as Franco Moretti's "graphs, maps, and trees" (Moretti 2007).  
 
-## Artifact Title 
+## Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/dlina_banner.JPG)
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/dlina_gogol_teatralnyi_razezd_gephi.png)
 
-* Artifact Type: (article, syllabus, tool, etc.)
-* Source URL: 
-* Permissions: 
-* Creator and Affiliation:
-* Tags: (getting started/advanced; tool used)
+* Artifact Type: Open access online article
+* Source URL: https://dh2017.adho.org/abstracts/071/071.pdf
+* Permissions: Free open-source
+* Creator and Affiliation: Frank Fischer, National Research University Higher School of Economics Russia; Mathias Göbel, Göttingen State and University Library, Germany; Dario Kampkaspar, Herzog August Library, Germany; Christopher Kittel, University of Graz, Austria; Peer Trilcke, University of Potsdam, Germany
+* Tags: Plot analysis, network analysis, dynamic networks, digital literary studies
 
 An annotation of **no more than 150 words**
 
@@ -35,7 +35,7 @@ Sample screenshot of topic modeling using Paper Machines:
 * Source URL: http://papermachines.org
 * Permissions: Free open-source
 * Creator and Affiliation: Jo Guldi and Chris Johnson-Roberson, metaLAB (at) Harvard
-* Tags: Advanced, data visualization, literary maps, text mining, plugin, Zotero 
+* Tags: Data visualization, literary maps, text mining, plugin, Zotero 
 
 Paper Machines is a data visualization tool that works as a plugin for the open-source bibliographic tool Zotero. Paper Machines can analyze bibliographic collections created with Zotero, apply various text mining processes, and export a wide range of visualizations, including word clouds, heat maps, or phrase nets. Tool discovered with TAPoR 3. The tool's name cleverly alludes to Derrida's *Papier-machine* (2001). The integration into a widely used open-source bibliographic tool makes Paper Machines a powerful tool that can be integrated into existing workflows.  
 
