@@ -31,7 +31,7 @@ Hecht et al. (2017) describe their digital edition project of Cäsar Flaischlen'
 * Creator and Affiliation: Frank Fischer (National Research University Higher School of Economics, Moscow, Russia), Mathias Göbel (Göttingen State and University Library, Germany), Dario Kampkaspar (Herzog August Library, Germany), Christopher Kittel (University of Graz, Austria), Peer Trilcke (University of Potsdam, Germany)
 * Tags: Plot analysis, network analysis, dynamic networks, digital literary studies
 
-Fischer et al. (2017) illuminate in their open access online article how to integrate plot analysis into network dynamics and introduce two different quantitative approaches, event-based measures (see illustration above) and progression-based measures. Results from recent applications of these approaches to German and Russian drama can also be explored on Fischer et al.'s (2015ff.) blog *dlina	– Digitally-Driven Literary Network Analysis (of	 Dramatic	 Texts)*. 
+Fischer et al. (2017) illuminate in their open access online article how to combine plot analysis and network dynamics and introduce two different quantitative approaches: event-based measures (see illustration above) and progression-based measures. Results from recent applications of these approaches to German and Russian drama can also be explored on Fischer et al.'s (2015ff.) blog *dlina	– Digitally-Driven Literary Network Analysis (of	 Dramatic	 Texts)*. 
 
 ## Paper Machines 
 
