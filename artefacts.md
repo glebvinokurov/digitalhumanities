@@ -1,5 +1,12 @@
 # Digital Humanities Artefacts
 
+# Literary data visualization
+
+## Curatorial Statement
+
+
+# Curates Artifacts
+
 ## Graphische Litteratur-Tafel. Die Deutsche Litteratur und der Einfluß fremder Litteraturen auf ihren Verlauf (1890)
 
 ![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/Graphische_Litteratur-Tafel.JPG)
@@ -36,7 +43,7 @@ Sample screenshot of topic modeling using Paper Machines:
 * Creator and Affiliation: Jo Guldi, Chris Johnson-Roberson (metaLAB (at) Harvard)
 * Tags: Data visualization, literary maps, text mining, plugin, Zotero 
 
-Paper Machines is a data visualization tool that works as a plugin for the open-source bibliographic tool Zotero. Paper Machines can analyze bibliographic collections created with Zotero, apply various text mining processes, and export a wide range of visualizations, including word clouds, heat maps, or phrase nets. Tool discovered with TAPoR 3. The tool's name cleverly alludes to Derrida's *Papier-machine* (2001). The integration into a widely used open-source bibliographic tool makes Paper Machines a powerful tool that can be integrated into existing workflows.  
+Paper Machines is a data visualization tool that works as a plugin for the open-source bibliographic tool Zotero. Paper Machines can analyze bibliographic collections created with Zotero, apply various text mining processes, and export a wide range of visualizations, including word clouds, heat maps, topic modeling, or phrase nets. Tool discovered with TAPoR 3. The tool's name cleverly alludes to Derrida's *Papier-machine* (2001). The integration into a widely used open-source bibliographic tool makes Paper Machines easily integrable into existing workflows.  
 
 ## Works Cited 
 
