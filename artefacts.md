@@ -14,7 +14,8 @@ Digital	edition of Cäsar Flaischlen's	(1864–1920) "Graphische Litteratur-Tafe
 
 ## Artifact Title 
 
-![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/papermachines_screenshot_of_screenshots.JPG)
+![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/dlina_banner.JPG)
+![screenshot](https://raw.githubusercontent.com/klahn/digitalhumanities/master/dlina_gogol_teatralnyi_razezd_gephi.png)
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
